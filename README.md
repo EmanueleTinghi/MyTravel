@@ -1,2 +1,5 @@
 # MyTravel
-Project for the course "Programmazione Avanzata" (Computer engineering degree at University of Pisa). Developed in java and javaFX.
+Progetto per in Java per il corso di PROGRAMMAZIONE AVANZATA (corso di laurea in Ingegneria Informatica - Università di Pisa)
+
+
+
